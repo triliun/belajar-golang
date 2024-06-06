@@ -1,0 +1,6 @@
+github.com/triliun/go-say-hello v1.0.0 h1:EvjMNPsP3sIejt8cIJ7H+BjHAvOADj2M1b881NSVbCo=
+github.com/triliun/go-say-hello v1.0.0/go.mod h1:Ixiaa0rb59ZLxL1BwKKGQ6EgOt4VMraz7SbxtrQbNc8=
+github.com/triliun/go-say-hello v1.5.0 h1:qRTPQIKy8yZfQL4BdYprGrVpXgSHhKmGcJV39O2KObo=
+github.com/triliun/go-say-hello v1.5.0/go.mod h1:Ixiaa0rb59ZLxL1BwKKGQ6EgOt4VMraz7SbxtrQbNc8=
+github.com/triliun/go-say-hello/v2 v2.0.0 h1:S0WeiSWY2ZaYPscd6cwtFCPOzpoHL/hmh6GDD47CN7o=
+github.com/triliun/go-say-hello/v2 v2.0.0/go.mod h1:4sECFGsAMMVq1vZ1zaJ+AXBf2Yj5h24OOZ+XX+2m5yM=
